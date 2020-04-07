@@ -88,6 +88,9 @@ django CMS Bootstrap 4 **utilises** the following django CMS plugins:
 * **django CMS Picture**: `Picture <https://github.com/divio/djangocms-picture/>`_
 * **django CMS Icon**: `Icon <https://github.com/divio/djangocms-icon>`_
 
+.. note:: 
+Icons to be displayed at the Django CMS page requires *reference link* to be added at the *the base template header*. For example from `AwsomeFonts <https://fontawesome.com/>`_.
+
 It provides the following **standard** Bootstrap 4 components:
 
 * `Alerts <https://getbootstrap.com/docs/4.0/components/alerts/>`_
