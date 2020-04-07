@@ -88,7 +88,22 @@ django CMS Bootstrap 4 **utilises** the following django CMS plugins:
 * **django CMS Picture**: `Picture <https://github.com/divio/djangocms-picture/>`_
 * **django CMS Icon**: `Icon <https://github.com/divio/djangocms-icon>`_
 
-**Icons** to be added at the Django CMS page will require *reference link* (for example from `AwsomeFonts <https://fontawesome.com/>`_) to be added at the *base template header*.
+Using FontAwesome *icons* with django CMS Bootstrap4 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+If you wish to make use of Free Font Awesome 5 icons with django CMS Icon:
+
+* download the Font Awesome library or
+* signup for an account at the Font Awesone and get a **KIT CODE**
+
+If you choose the **KIT CODE**:
+
+You will need to add:
+
+    <script src="https://kit.fontawesome.com/**yourcode**.js" crossorigin="anonymous"></script>
+
+to your site's base templates's ``<head>``.
+
 
 It provides the following **standard** Bootstrap 4 components:
 
