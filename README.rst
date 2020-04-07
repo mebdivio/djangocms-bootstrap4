@@ -105,7 +105,7 @@ It provides the following **standard** Bootstrap 4 components:
 * `Tabs <https://getbootstrap.com/docs/4.0/components/navs/#tabs>`_
 * `Utilities (Spacing) <https://getbootstrap.com/docs/4.0/utilities/>`_
 
-django CMS Bootstrap 4 **does not** add the styles or javascript files to your frontend, these need to be added at your discretion.
+django CMS Bootstrap 4 **does not** add the styles (including Icons and Fonts) or javascript files to your frontend, these need to be added at your discretion.
 
 
 Settings
