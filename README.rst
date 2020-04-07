@@ -91,14 +91,14 @@ django CMS Bootstrap 4 **utilises** the following django CMS plugins:
 Using FontAwesome *icons* with django CMS Bootstrap4 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-If you wish to make use of Free Font Awesome 5 icons with django CMS Icon:
+If you wish to make use of Free Font Awesome 5 icons with django CMS Bootstrap 4 plugin:
 
 * download the Font Awesome library or
-* signup for an account at the Font Awesone and get a **KIT CODE**
+* signup for an account at the Font Awesome and get a **KIT CODE**
 
 If you choose the **KIT CODE**:
 
-You will need to add:
+You will need to add::
 
     <script src="https://kit.fontawesome.com/**yourcode**.js" crossorigin="anonymous"></script>
 
