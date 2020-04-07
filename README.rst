@@ -98,11 +98,11 @@ If you wish to make use of Free Font Awesome 5 icons with django CMS Bootstrap 4
 
 If you choose the **KIT CODE**:
 
-You will need to add::
+You will need to add the **<script> tag** to your site's base templates's ``<head>``.::
 
     <script src="https://kit.fontawesome.com/**yourcode**.js" crossorigin="anonymous"></script>
 
-to your site's base templates's ``<head>``.
+
 
 
 It provides the following **standard** Bootstrap 4 components:
